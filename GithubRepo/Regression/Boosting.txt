@@ -1,0 +1,9 @@
+Boosting Techniques in machine learning
+
+what is the use of boosting ?
+Boosting is used to improve the model accuracy ..
+It trains the sequence of weak models, to improve the prediction power. Each compensating the weakness of the predecessors.
+
+there are 2 major algorithms that are being used in machine learning--
+1) ADA Boost
+2) Gradient Boost

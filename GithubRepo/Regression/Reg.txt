@@ -1,0 +1,4 @@
+this is mainly for polynomial Regression 
+How to know that you have underfit or overfit the model .. You have to make use of cross-validation Test ... If the model Does well on training data but performs bad on the cross validation score then the model is overfitting...
+
+If poorly on both then the model is underfitting..

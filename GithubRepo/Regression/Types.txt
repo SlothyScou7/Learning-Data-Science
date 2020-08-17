@@ -1,0 +1,6 @@
+This is the regression Series of What I learned In Mahine Learning .. 
+1) Linear And Multiple Regression
+2) Support Vector Regression
+3) Decision Trees 
+4) Random Forests
+5) Ridge And Lasso Regression
