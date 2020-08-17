@@ -1,2 +1,2 @@
 # Learning-Data-Science
-My try to learn Data scince and Basic Machine learning algorithms .. This repo is stil incomplete ..
+My try to learn Data scinnce and Basic Machine Learning algorithms .. This repo is stil incomplete ..
