@@ -1,6 +1,5 @@
-# Learning-Data-Science
-My try to learn Data scinnce and Basic Machine Learning algorithms .. This repo is stil incomplete ..
-
+# Learning Data-Science
+Implemented Various Machine Learning Algorithms and it's types. This repo is my stepping stone in the world of Data Science and Machine Learning.
 
 ## Regression 
-DO checkout the githu repo Regression it has complete basic regression codes.
+Do checkout the githu repo Regression it has complete basic regression codes.
